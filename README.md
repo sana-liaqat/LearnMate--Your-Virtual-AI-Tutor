@@ -33,6 +33,5 @@ To protect proprietary code and API usage, the following are **not included** in
 - API keys and endpoints
 - Supabase project details
 - Backend code and FastAPI services
-npm install
-npm start
+
 Note: This runs the frontend only and does not include working LLM or backend integrations.
